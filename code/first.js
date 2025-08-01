@@ -7,3 +7,7 @@ const seeNew = () => {
 function welcome() {
 	console.log("Welcome!");
 }
+
+function goodbye() {
+	console.log("goodbye!");
+}
